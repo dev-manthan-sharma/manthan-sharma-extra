@@ -6,7 +6,7 @@ Fly Till You Die
 
 ## Builds:
 
-[v0.0.1](https://github.com/dev-manthan-sharma/manthan-sharma-extra/releases/download/v0.0.1-dodgefly/)
+[v0.0.1](https://github.com/dev-manthan-sharma/manthan-sharma-extra/releases/tag/v0.0.1-dodgefly/)
 
 ## Other Docs: 
 
