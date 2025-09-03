@@ -1,3 +1,13 @@
+# v0.0.2
+
+## Added
+
+- Basic Menu Screen
+
+## Updated
+
+- Optimized Background-tiling Logic
+
 # v0.0.1
 
 ## Added
